@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj
-- 👀 I’m interested in web development and software development
+- 👀 I’m interested in web and software development
 - 🌱 I’m currently learning Java,Django, javascript and sqlite.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ....
